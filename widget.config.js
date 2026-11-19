@@ -1,7 +1,7 @@
 module.exports = {
-  widgetName: "jsDev",
+  widgetName: "LotPicker",
   server: "$",
-  file: "jsDev",
+  file: "OutstandingSeed",
   uploadScript: "UploadToHTML",
   reloadScript: "Load Widget",
   startDevScript: "Set to Dev Mode",
